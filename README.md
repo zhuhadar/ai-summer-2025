@@ -26,7 +26,7 @@ Practice your Python skills using the below documents. Choose either a Google Co
 
 ### Getting Accounts
 
-You’ll want to use the most advanced AI chat model that you can get access to. To get a headstart, please create an account with [OpenAI](https://auth.openai.com/log-in). We will go over instructions on how to create API keys and more during the sessions. 
+You’ll want to use the most advanced AI chat model that you can get access to. To get a headstart, please create an account with [OpenAI](https://platform.openai.com/docs/overview). We will go over instructions on how to create API keys and more during the sessions. 
 
 
 ### Decide on a Project (recommended)
