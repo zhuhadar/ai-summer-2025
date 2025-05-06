@@ -33,13 +33,13 @@ You’ll want to use the most advanced AI chat model that you can get access to.
 
 Think about any data you might want to bring to the workshop. Also begin thinking about any projects you might want to accomplish during our month. We’ll have office hours for you to work with us to get your first project off the ground!
 
-## Workshop Schedule
+## Workshop Schedule and Recordings
 
 Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all times Central). 
 
 ### Week 1, 5/5 - 5/9: Introduction to Generative AI Models, AI Augmented Programming, and Secure Data Practices. 
 
-Monday: Introduction to Generative AI Models, AI Augmented Programming (cursor, windsurf, replit etc.)
+[Monday](https://vanderbilt.zoom.us/rec/share/up-Ap0t3Vp6hhh5etFkA0N65pN_7ysy_179KJRpeD27nsv_6V0_fozPKyFDHrkl8.fSQFZoOAPQ2tUm0N): Introduction to Generative AI Models, AI Augmented Programming (cursor, windsurf, replit etc.)
 
 Wednesday: API Keys, Secure Data Practices
 
