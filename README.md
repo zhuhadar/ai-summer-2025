@@ -43,6 +43,13 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 
 Wednesday: API Keys, Secure Data Practices
 
+For Wednesday's course, please download and sign up for the following:
+
+- Download [LMStudio](https://lmstudio.ai/download)
+- Register an account on [HuggingFace](https://huggingface.co/) and generate an API Token
+    - Create an account, then navigate to Account -> Access Tokens -> Create New Token -> Write
+    - Give your token a name, and save the Token Key (it will only display this once, so save it!!)
+
 > No class Friday, May 9 (Vanderbilt Commencement)
 
 ### Week 2, 5/12 - 5/16: Reasoning Models, Introduction to Agents, Multimodal Models and Reinforcement Learning
