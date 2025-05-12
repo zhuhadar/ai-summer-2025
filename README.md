@@ -54,7 +54,7 @@ For Wednesday's course, please download and sign up for the following:
 
 ### Week 2, 5/12 - 5/16: Reasoning Models, Introduction to Agents, Multimodal Models and Reinforcement Learning
 
-Monday: Reasoning Models, Tool Use and Introduction to Agents
+Monday: Introduction to AI Models, Reasoning Models, Tool Use and Introduction to Agents
 
 Wednesday: Langflow, Multimodal Models
 
