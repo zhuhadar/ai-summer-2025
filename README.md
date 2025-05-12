@@ -54,7 +54,7 @@ For Wednesday's course, please download and sign up for the following:
 
 ### Week 2, 5/12 - 5/16: Reasoning Models, Introduction to Agents, Multimodal Models and Reinforcement Learning
 
-Monday: Introduction to AI Models, Reasoning Models, Tool Use and Introduction to Agents
+[Monday](https://vanderbilt.zoom.us/rec/share/5C-ZUrE-yrfG4BsJHKNXPk3LJmOaY2dKpIlv0F5AM8cAkry3XaDejK5kh0z3Ml0c.E5eaRUaNCKTdBy8_): Introduction to AI Models, Reasoning Models, Tool Use and Introduction to Agents
 
 [Breakout Room Working Document](https://docs.google.com/document/d/15deDo3TBlgue_7ueoHake-O3HoEqCZKBZOHWfmfUlFQ/edit?usp=sharing)
 
