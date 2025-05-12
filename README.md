@@ -56,6 +56,8 @@ For Wednesday's course, please download and sign up for the following:
 
 Monday: Introduction to AI Models, Reasoning Models, Tool Use and Introduction to Agents
 
+[Breakout Room Working Document](https://docs.google.com/document/d/15deDo3TBlgue_7ueoHake-O3HoEqCZKBZOHWfmfUlFQ/edit?usp=sharing)
+
 Wednesday: Langflow, Multimodal Models
 
 Friday: Reinforcement Learning
